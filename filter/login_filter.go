@@ -77,6 +77,7 @@ type UserInfoAuth struct {
 	Mobile   string `json:"mobile"`
 	RealName string `json:"real_name"`
 	UserNo   string `json:"user_no"`
+	
 	UserAuth string `json:"user_auth"`
 }
 
